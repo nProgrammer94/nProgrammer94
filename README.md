@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ho Thanh Nam</h1>
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230">
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 - 🔭 Developer Enginner at [UNIT Corp](https://unit.com.vn)
