@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ho Thanh Nam</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [UNIT Corp](https://unit.com.vn)
+- 🔭 Developer Enginner at [UNIT Corp](https://unit.com.vn)
+
+- 👯 I’m currently working on [CheckinPro](https://checkinpro.vn/)
+
+- 👨‍💻 All of my projects are available at [https://namht.com](https://namht.com)
+
+- 💬 Ask me about **.NET, Python, TypeScript, OCR, Angular, ...**
+
+- 📫 How to reach me **nProgrammer@outlook.com.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
